@@ -1,5 +1,5 @@
 body{
-padding: 0; background-image: url(Documents/jbareham_201201_ecl1050_goty_2020_top_50_02.0.jpg); 
+padding: 0; background-image: url(jbareham_201201_ecl1050_goty_2020_top_50_02.0.jpg); 
 margin: 0; background-repeat: no-repeat;background-size: 1600px  370px; margin-top: 2cm;} 
 ul{
    list-style-type: none;
@@ -45,7 +45,7 @@ ul li{
 .container{
    display: flex; width: 1296px; height: 4500px;align-content: space-around;  border: 0.1cm blue solid;
    margin-left: auto; margin-top: 3cm;margin-right: auto;
-   background-size: 1296px 1268px; background-image: url(Documents/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg);margin-bottom: 10px;flex-flow: wrap; background-repeat: repeat-y;
+   background-size: 1296px 1268px; background-image: url(cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg);margin-bottom: 10px;flex-flow: wrap; background-repeat: repeat-y;
 }
 .item{
    width: 377px; box-sizing: border-box;  background-color: black; color: whitesmoke;box-shadow: 0 5px 8px 0px white; margin-left: auto; margin-right: auto; margin-top: -10px; margin-bottom: auto;
@@ -69,5 +69,5 @@ ul li{
    padding-left: 17cm;
 }  
 #back{
-  background-image: url(Documents/1000_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg); margin-top: 0cm;
+  background-image: url(1000_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg); margin-top: 0cm;
 }
