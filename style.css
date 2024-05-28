@@ -44,7 +44,7 @@ ul li{
 }
 .container{
    display: flex; width: 1296px; height: 4500px;align-content: space-around;  border: 0.1cm blue solid;
-   margin-left: auto; margin-top: 3cm;margin-right: auto;
+   margin-left: auto; margin-top: 2cm;margin-right: auto;
    background-size: 1296px 1268px; background-image: url(cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg);margin-bottom: 10px;flex-flow: wrap; background-repeat: repeat-y;
 }
 .item{
